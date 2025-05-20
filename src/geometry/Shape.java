@@ -28,6 +28,7 @@ public abstract class Shape {
 	
 	public static void someFunc() {
 		System.out.print("RADI");
+		//neki komentar
 	}
 	
 }
